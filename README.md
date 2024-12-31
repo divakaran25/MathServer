@@ -96,10 +96,12 @@ h1 {
 
 
 ## SERVER SIDE PROCESSING:
-![alt text](<Screenshot 2024-12-09 221330-1.png>)
+![image](https://github.com/user-attachments/assets/cc12ab74-418c-4d6d-b521-470dc71020f1)
+
 
 ## HOMEPAGE:
-![alt text](<Screenshot 2024-12-09 212905-1.png>)
+![Screenshot 2024-12-10 164742](https://github.com/user-attachments/assets/abc07efe-0712-4e7a-b3af-698c3430b16f)
+
 
 ## RESULT:
 The program for performing server side processing is completed successfully.
